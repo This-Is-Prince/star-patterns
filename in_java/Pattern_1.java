@@ -1,15 +1,20 @@
 package in_java;
 
 public class Pattern_1 {
-    public static void main(String[] args) {
-        int row = 5;
-        int column = 5;
-        String symbol = "*";
+    int row, column;
+    String symbol;
 
-        for (int i = 0; i < row; i++) {
-            for (int j = 0; j < column; j++) {
+    public Pattern_1(int row, int column, String symbol) {
+        this.row = row;
+        this.column = column;
+        this.symbol = symbol;
+    }
+
+    public void print() {
+        for (int i = 0; i < this.row; i++) {
+            for (int j = 0; j < this.column; j++) {
                 if (j <= i) {
-                    System.out.print(symbol);
+                    System.out.print(this.symbol);
                 }
             }
             System.out.println();

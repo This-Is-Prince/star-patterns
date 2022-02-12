@@ -7,6 +7,9 @@ for (let i = 0; i < row; i++) {
         if (j <= i) {
             process.stdout.write(symbol);
         }
+        else {
+            process.stdout.write(" ");
+        }
     }
     process.stdout.write("\n");
 }

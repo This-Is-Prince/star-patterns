@@ -6,6 +6,8 @@ pub fn pattern_1() {
         for j in 0..column {
             if j <= i {
                 print!("{}", symbol);
+            } else {
+                print!(" ");
             }
         }
         println!();

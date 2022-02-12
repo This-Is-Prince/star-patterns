@@ -15,6 +15,8 @@ public class Pattern_1 {
             for (int j = 0; j < this.column; j++) {
                 if (j <= i) {
                     System.out.print(this.symbol);
+                } else {
+                    System.out.print(" ");
                 }
             }
             System.out.println();

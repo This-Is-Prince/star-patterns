@@ -11,7 +11,10 @@ public class Main {
         // Pattern_3 pattern_3 = new Pattern_3(5, 5, "*");
         // pattern_3.print();
 
-        Pattern_4 pattern_4 = new Pattern_4(5, 5, "*");
-        pattern_4.print();
+        // Pattern_4 pattern_4 = new Pattern_4(5, 5, "*");
+        // pattern_4.print();
+
+        Pattern_5 pattern_5 = new Pattern_5(5, 9, "*");
+        pattern_5.print();
     }
 }

@@ -6,5 +6,6 @@ import (
 
 func main() {
 	// src.Pattern_1()
-	src.Pattern_2()
+	// src.Pattern_2()
+	src.Pattern_3()
 }

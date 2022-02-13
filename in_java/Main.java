@@ -8,7 +8,10 @@ public class Main {
         // Pattern_2 pattern_2 = new Pattern_2(5, 5, "*");
         // pattern_2.print();
 
-        Pattern_3 pattern_3 = new Pattern_3(5, 5, "*");
-        pattern_3.print();
+        // Pattern_3 pattern_3 = new Pattern_3(5, 5, "*");
+        // pattern_3.print();
+
+        Pattern_4 pattern_4 = new Pattern_4(5, 5, "*");
+        pattern_4.print();
     }
 }

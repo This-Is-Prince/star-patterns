@@ -10,5 +10,6 @@ func main() {
 	// src.Pattern_3()
 	// src.Pattern_4()
 	// src.Pattern_5()
-	src.Pattern_6()
+	// src.Pattern_6()
+	src.Pattern_7()
 }

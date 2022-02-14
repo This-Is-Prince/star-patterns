@@ -1,13 +1,9 @@
 package in_java;
 
-public class Pattern_5 {
-    int row, column;
-    String symbol;
+public class Pattern_5 extends Pattern {
 
     public Pattern_5(int row, int column, String symbol) {
-        this.row = row;
-        this.column = column;
-        this.symbol = symbol;
+        super(row, column, symbol);
     }
 
     public void print() {

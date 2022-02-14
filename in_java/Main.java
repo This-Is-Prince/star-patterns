@@ -26,7 +26,10 @@ public class Main {
         // Pattern_8 pattern_8 = new Pattern_8(5, 9, "1");
         // pattern_8.print();
 
-        Pattern_9 pattern_9 = new Pattern_9(5, 9, "A");
-        pattern_9.print();
+        // Pattern_9 pattern_9 = new Pattern_9(5, 9, "A");
+        // pattern_9.print();
+
+        Pattern_10 pattern_10 = new Pattern_10(9, 9, "*");
+        pattern_10.print();
     }
 }

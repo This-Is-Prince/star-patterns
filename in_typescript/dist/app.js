@@ -6,7 +6,8 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 // import pattern_7 from "./Pattern_7";
-const Pattern_8_1 = __importDefault(require("./Pattern_8"));
+// import pattern_8 from "./Pattern_8";
+const Pattern_9_1 = __importDefault(require("./Pattern_9"));
 // import pattern_5 from "./Pattern_5";
 // import pattern_6 from "./Pattern_6";
 // import pattern_3 from "./Pattern_3";
@@ -18,4 +19,5 @@ const Pattern_8_1 = __importDefault(require("./Pattern_8"));
 // pattern_5();
 // pattern_6();
 // pattern_7();
-(0, Pattern_8_1.default)();
+// pattern_8();
+(0, Pattern_9_1.default)();

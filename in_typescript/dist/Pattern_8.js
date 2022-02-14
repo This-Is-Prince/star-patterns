@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-function pattern_7() {
+function pattern_8() {
     let row = 5;
     let column = 9;
     let symbol = 1;
@@ -23,4 +23,4 @@ function pattern_7() {
         process.stdout.write("\n");
     }
 }
-exports.default = pattern_7;
+exports.default = pattern_8;

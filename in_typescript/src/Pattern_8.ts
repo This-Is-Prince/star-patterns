@@ -1,4 +1,4 @@
-export default function pattern_7() {
+export default function pattern_8() {
   let row = 5;
   let column = 9;
 

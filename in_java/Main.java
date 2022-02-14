@@ -23,7 +23,10 @@ public class Main {
         // Pattern_7 pattern_7 = new Pattern_7(5, 9, "*");
         // pattern_7.print();
 
-        Pattern_8 pattern_8 = new Pattern_8(5, 9, "1");
-        pattern_8.print();
+        // Pattern_8 pattern_8 = new Pattern_8(5, 9, "1");
+        // pattern_8.print();
+
+        Pattern_9 pattern_9 = new Pattern_9(5, 9, "A");
+        pattern_9.print();
     }
 }

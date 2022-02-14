@@ -2,7 +2,8 @@
 // import pattern_2 from "./Pattern_2";
 
 // import pattern_7 from "./Pattern_7";
-import pattern_8 from "./Pattern_8";
+// import pattern_8 from "./Pattern_8";
+import pattern_9 from "./Pattern_9";
 
 // import pattern_5 from "./Pattern_5";
 // import pattern_6 from "./Pattern_6";
@@ -17,4 +18,5 @@ import pattern_8 from "./Pattern_8";
 // pattern_5();
 // pattern_6();
 // pattern_7();
-pattern_8();
+// pattern_8();
+pattern_9();

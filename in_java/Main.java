@@ -29,7 +29,10 @@ public class Main {
         // Pattern_9 pattern_9 = new Pattern_9(5, 9, "A");
         // pattern_9.print();
 
-        Pattern_10 pattern_10 = new Pattern_10(9, 9, "*");
-        pattern_10.print();
+        // Pattern_10 pattern_10 = new Pattern_10(9, 9, "*");
+        // pattern_10.print();
+
+        Pattern_11 pattern_11 = new Pattern_11(9, 5, "*");
+        pattern_11.print();
     }
 }

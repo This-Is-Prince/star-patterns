@@ -1,18 +1,16 @@
 // import pattern_1 from "./Pattern_1";
 // import pattern_2 from "./Pattern_2";
-
+// import pattern_3 from "./Pattern_3";
+// import pattern_4 from "./Pattern_4";
+// import pattern_5 from "./Pattern_5";
+// import pattern_6 from "./Pattern_6";
 // import pattern_7 from "./Pattern_7";
 // import pattern_8 from "./Pattern_8";
 // import pattern_9 from "./Pattern_9";
 // import pattern_10 from "./Pattern_10";
 // import pattern_11 from "./Pattern_11";
-import pattern_12 from "./Pattern_12";
-
-// import pattern_5 from "./Pattern_5";
-// import pattern_6 from "./Pattern_6";
-
-// import pattern_3 from "./Pattern_3";
-// import pattern_4 from "./Pattern_4";
+// import pattern_12 from "./Pattern_12";
+import pattern_13 from "./Pattern_13";
 
 // pattern_1();
 // pattern_2();
@@ -25,4 +23,5 @@ import pattern_12 from "./Pattern_12";
 // pattern_9();
 // pattern_10();
 // pattern_11();
-pattern_12();
+// pattern_12();
+pattern_13();

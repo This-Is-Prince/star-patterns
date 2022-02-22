@@ -47,7 +47,10 @@ public class Main {
         // Pattern_15 pattern_15 = new Pattern_15(9, 5, "1");
         // pattern_15.print();
 
-        Pattern_16 pattern_16 = new Pattern_16(9, 9, "*");
-        pattern_16.print();
+        // Pattern_16 pattern_16 = new Pattern_16(9, 9, "*");
+        // pattern_16.print();
+
+        Pattern_17 pattern_17 = new Pattern_17(9, 9, "*");
+        pattern_17.print();
     }
 }

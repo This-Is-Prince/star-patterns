@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-function pattern_14() {
+function pattern_15() {
     let row = 9;
     let column = 5;
     let halfRow = Math.floor(row / 2);
@@ -30,4 +30,4 @@ function pattern_14() {
         process.stdout.write("\n");
     }
 }
-exports.default = pattern_14;
+exports.default = pattern_15;

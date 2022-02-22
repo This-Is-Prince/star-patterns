@@ -1,4 +1,4 @@
-export default function pattern_14() {
+export default function pattern_15() {
   let row = 9;
   let column = 5;
   let halfRow = Math.floor(row / 2);

@@ -21,5 +21,6 @@ func main() {
 	// src.Pattern_14()
 	// src.Pattern_15()
 	// src.Pattern_16()
-	src.Pattern_17()
+	// src.Pattern_17()
+	src.Pattern_18()
 }

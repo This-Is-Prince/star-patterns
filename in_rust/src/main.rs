@@ -19,7 +19,8 @@
 // mod pattern_19;
 // mod pattern_20;
 // mod pattern_21;
-mod pattern_22;
+// mod pattern_22;
+mod pattern_23;
 
 fn main() {
     // pattern_1::pattern_1();
@@ -43,5 +44,6 @@ fn main() {
     // pattern_19::pattern_19();
     // pattern_20::pattern_20();
     // pattern_21::pattern_21();
-    pattern_22::pattern_22();
+    // pattern_22::pattern_22();
+    pattern_23::pattern_23();
 }
